@@ -8,4 +8,4 @@ Minamishima describes the act of "asking questions" as follows: "I have produced
 
 He asked those questions mainly to artist friends and students...
 
-I scraped texts from Atsushi Sugita, Miwa Yanagi, Yasumasa Morimura etc. who are his artist friends and students from the net and feeded the markov-bot with it so that he could generate answers to it.
+I scraped texts from Atsushi Sugita, Yasumasa Morimura, Manami Nomura etc. who are his artist friends and students from the net and feeded the markov-bot with it so that he could generate answers to it.
